@@ -12,7 +12,7 @@ La primera entrega lleva el nombre de: **"Alarcón Villegas, Carlos - CoderHouse
 
 <br>
 
-La segunda entrega lleva el nombre de: **2da entrega - Visualización - Alarcón Villegas, Carlos**
+La segunda entrega lleva el nombre de: **"2da entrega - Visualización - Alarcón Villegas, Carlos"**
 
 <br>
 
