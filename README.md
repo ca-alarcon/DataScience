@@ -24,4 +24,9 @@ La cuarta entrega lleva el nombre de: **"(4ta entrega) Estructurando un Proyecto
 
 <br>
 
+**"(5ta entrega) Estructurando un proyecto de DS Parte III y Desafío complementario (Alarcón Villegas, Carlos)"**, en dicho notebook está tanto el desafío obligatorio como el complementario correspondientes a la clase 10. 
+
+
+<br>
+
 Carlos Alarcón Villegas. 
