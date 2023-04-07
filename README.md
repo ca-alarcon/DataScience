@@ -26,7 +26,6 @@ La cuarta entrega lleva el nombre de: **"(4ta entrega) Estructurando un Proyecto
 
 **"(5ta entrega) Estructurando un proyecto de DS Parte III y Desafío complementario (Alarcón Villegas, Carlos)"**, en dicho notebook está tanto el desafío obligatorio como el complementario correspondientes a la clase 10. 
 
-
 <br>
 
 Entrega del día 11/03: **"Primera Entrega Proyecto Final - Alarcón Villegas, Carlos"**
@@ -34,6 +33,10 @@ Entrega del día 11/03: **"Primera Entrega Proyecto Final - Alarcón Villegas, C
 <br>
 
 Entrega del día 01/04: **"Alarcón Villegas, Carlos Antonio- Descarga de datos desde APIs públicas"**
+
+<br>
+
+Entrega del día 08/04: **"Data Wrangling - Alarcón Villegas, Carlos"**
 
 <br>
 
