@@ -40,4 +40,8 @@ Entrega del día 08/04: **"Data Wrangling - Alarcón Villegas, Carlos"**
 
 <br>
 
+Entrega del día 22/04: **"Data Storytelling - Alarcón Villegas, Carlos Antonio"**
+
+<br>
+
 Carlos Alarcón Villegas. 
